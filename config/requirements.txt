@@ -10,3 +10,4 @@ pytesseract>=0.3.10
 opencv-python>=4.8.1.78
 Pillow>=10.1.0
 faiss-cpu>=1.7.4
+plotly
