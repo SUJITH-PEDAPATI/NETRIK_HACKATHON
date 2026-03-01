@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 HR Automation Agent - Complete HR System
 
 A sophisticated, enterprise-grade HR automation platform with 6 integrated phases for candidate screening, interview scheduling, leave management, and escalation detection.
@@ -267,3 +268,6 @@ All errors are logged with context for debugging.
 - [ ] Explainability dashboard (component breakdown)
 - [ ] Skill progression analysis (career path)
 - [ ] Integration with ATS (Applicant Tracking System)
+=======
+# NETRIK_HACKATHON
+>>>>>>> ae43fb0d918666fbc24943503397df51ce5c8e47
