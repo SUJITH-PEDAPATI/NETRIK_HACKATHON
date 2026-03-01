@@ -1,0 +1,9 @@
+2026-03-01 06:57:36,439 - hr_agent - INFO - {"timestamp": "2026-03-01T06:57:36.439412", "event_type": "resume_screening_started", "event_data": {"file_count": 1}, "user_id": null}
+2026-03-01 07:00:03,176 - hr_agent - INFO - {"timestamp": "2026-03-01T07:00:03.176232", "event_type": "resume_screening_started", "event_data": {"file_count": 1}, "user_id": null}
+2026-03-01 07:04:35,659 - hr_agent - INFO - {"timestamp": "2026-03-01T07:04:35.659213", "event_type": "resume_screening_started", "event_data": {"file_count": 1}, "user_id": null}
+2026-03-01 07:12:52,401 - hr_agent - INFO - {"timestamp": "2026-03-01T07:12:52.401569", "event_type": "resume_screening_started", "event_data": {"file_count": 1}, "user_id": null}
+2026-03-01 07:26:04,861 - hr_agent - INFO - {"timestamp": "2026-03-01T07:26:04.861938", "event_type": "resume_screening_started", "event_data": {"file_count": 1}, "user_id": null}
+2026-03-01 07:29:25,084 - hr_agent - INFO - {"timestamp": "2026-03-01T07:29:25.084073", "event_type": "resume_screening_started", "event_data": {"file_count": 1}, "user_id": null}
+2026-03-01 07:31:26,097 - hr_agent - INFO - {"timestamp": "2026-03-01T07:31:26.097193", "event_type": "resume_screening_started", "event_data": {"file_count": 1}, "user_id": null}
+2026-03-01 09:10:31,298 - hr_agent - INFO - {"timestamp": "2026-03-01T09:10:31.298559", "event_type": "interview_scheduled", "event_data": {"candidate": "Bob Smith", "date": "2026-03-17", "time": "01:15:00"}, "user_id": null}
+2026-03-01 09:17:52,348 - hr_agent - INFO - {"timestamp": "2026-03-01T09:17:52.348477", "event_type": "resume_screening_started", "event_data": {"file_count": 1}, "user_id": null}
