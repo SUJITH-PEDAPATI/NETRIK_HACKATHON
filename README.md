@@ -1,8 +1,3 @@
-# Team ALPHA
-## Team Members
-- Sujith Pedapati
-- Hanuma Sathvik Mandalapu
-- Yadidhya Gandham
 
 ## College Name - IIITDM Kurnool
 # 🚀 HR Automation Agent - Complete HR System
@@ -276,5 +271,3 @@ All errors are logged with context for debugging.
 - [ ] Integration with ATS (Applicant Tracking System)
 
 =======
-# NETRIK_HACKATHON
->>>>>>> ae43fb0d918666fbc24943503397df51ce5c8e47
